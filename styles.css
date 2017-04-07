@@ -2,9 +2,10 @@ img{
     width: 200px;
 }
 body{
-    text-align: center;
+
     font-family: "Arial";
 }
-list{
-    text-align: left;
+div {
+    text-align: center; 
+    
 }
