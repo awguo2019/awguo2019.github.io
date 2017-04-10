@@ -45,7 +45,21 @@
   background-image: url("http://wallpapercave.com/wp/KKSGGBW.jpg");
 }
 
-
+#mepic{
+  background-image: url("https://api.skype.com/users/pandaboi7777777/profile/avatar?auth_key=-3733372&size=m");
+  width: 190px;
+  height: 190px;
+  margin: auto;
+  position: relative; 
+  top: -100px; 
+  
+  border-radius:100px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+  
+  
+}
 #alanguo{
   float: left;
   
@@ -88,6 +102,23 @@
   list-style: none;
   font-style: italic;
   float:left;
+}
+#alanguo li:hover{
+  
+  background-color: red;
+  cursor:pointer;
+}
+
+#connect li:hover{
+  
+  background-color: blue;
+  cursor:pointer;
+}
+
+#aboutme li:hover{
+  
+  background-color: yellow;
+  cursor:pointer;
 }
 
 #connect li{
