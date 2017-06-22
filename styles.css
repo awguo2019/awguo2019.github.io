@@ -127,6 +127,7 @@ margin: auto;
   height: 550px;
   background-color: white;
   border-radius: 50px;
+  text-align: center;
   
 }
 
@@ -177,6 +178,17 @@ margin: auto;
   
  float: left; 
 
+}
+
+.textblurb{
+  margin:auto;
+  width: 700px;
+  height: 450px;
+  margin-top: 50px;
+  font-size: 20px;
+  line-height: 35px;
+  padding-top: 40px;
+  text-align: left;
 }
 
 #connect{
@@ -235,6 +247,7 @@ margin: auto;
   font-size: 100px; 
   text-align: center;
   padding-top: 100px;
+ 
   
  }
 
