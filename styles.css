@@ -112,7 +112,7 @@ text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #
 width: 350px;
 height: 650px;
 margin: auto;
- top: 0; left: 0; bottom: 0; right: 1200px;
+ top: 0; left: 0; bottom: 0; right: 950px;
 }
 .beright{
   text-align: right;
@@ -124,7 +124,7 @@ margin: auto;
   width: 850px;
  margin: auto;
  top: 0; left: 350px; bottom: 0; right: 0;
-  height: 550px;
+  height: 500px;
   background-color: white;
   border-radius: 50px;
   text-align: center;
@@ -187,7 +187,7 @@ margin: auto;
   margin-top: 50px;
   font-size: 20px;
   line-height: 35px;
-  padding-top: 40px;
+  padding-top: 17.5px;
   text-align: left;
 }
 
